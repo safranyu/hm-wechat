@@ -1,0 +1,2 @@
+# hm-wechat
+HarmonyOS wechat
